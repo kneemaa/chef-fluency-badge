@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Chef-Fluency-Badge
+
 The chef-repo
 ===============
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
@@ -30,6 +31,5 @@ Roles provide logical grouping of cookbooks and other roles. A sample role can b
 Getting Started
 -------------------------
 Now that you have the chef-repo ready to go, check out [Learn Chef](https://learn.chef.io/) to proceed with your workstation setup. If you have any questions about Chef you can always ask [our support team](https://www.chef.io/support/) for a helping hand.
-=======
-# chef-fluency-badge
->>>>>>> 665ac43a3603ec6849523f961a26c8dc7ea8168b
+
+
